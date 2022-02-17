@@ -1,0 +1,6 @@
+fastapi
+gunicorn
+uvicorn
+starlette
+asgiref
+pydantic

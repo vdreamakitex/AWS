@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "AWS",
+			"path": "."
+		},
+		{
+			"name": "FA uService",
+			"path": "../../../../uServices-n-CaaS/API_Dev/FA uService"
+		}
+	],
+	"settings": {}
+}
